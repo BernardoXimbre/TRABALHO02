@@ -4,8 +4,8 @@
 
 int main()
 {
-	
-	char escolha;
+	sorteio_personagem();
+	/*char escolha;
 
 	do{
 		printf("MENU SIMPLES\n");
@@ -16,8 +16,7 @@ int main()
 		printf("\n");
 
 		if(escolha=='1'){
-			escolha_personagem();
 		}
-	}while(escolha!='0');
+	}while(escolha!='0');*/
 	return 0;
 }
